@@ -2,9 +2,8 @@
 # JavaGame
  Short pixel-art platform mini-game in Java.
 
-![Screenshot](https://github.com/kostasvs/JavaGame/raw/master/screens/screenshot1.jpg)
-![Screenshot](https://github.com/kostasvs/JavaGame/raw/master/screens/small1.jpg) ![Screenshot](https://github.com/kostasvs/JavaGame/raw/master/screens/small2.jpg) ![Screenshot](https://github.com/kostasvs/JavaGame/raw/master/screens/small3.jpg)
- 
+![Screenshot](https://github.com/kostasvs/JavaGame/raw/master/screens/gameplay.gif)
+
   ### Features
 * FPS-independent timing.
 * Efficient tile-based drawing.
