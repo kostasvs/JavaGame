@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-* Runs on any system/OS that supports Java.
+* Runs on any system/OS that supports Java (but currently requires keyboard input).
 * No installation procedure required.
 * [JRE](https://www.java.com/download/) required.
 
@@ -31,6 +31,7 @@ Required files for running / distribution:
 
 * Sounds
 * Main Menu
+* Customizable controls / touchscreen support
 * More stages/enemies/items
 
 ## Contributing
