@@ -15,6 +15,8 @@
 
 ## Getting Started
 
+***To play:*** Download & extract [game.zip](https://github.com/kostasvs/JavaGame/raw/master/game.zip) and run **game.jar**.
+
 * Runs on any system/OS that supports Java (but currently requires keyboard input).
 * No installation procedure required.
 * [JRE](https://www.java.com/download/) required.
